@@ -1,0 +1,31 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icon/close.png</file>
+        <file>icon/fullscreen.png</file>
+        <file>icon/next.png</file>
+        <file>icon/open.png</file>
+        <file>icon/pause.png</file>
+        <file>icon/play.png</file>
+        <file>icon/previous.png</file>
+        <file>icon/sound.png</file>
+        <file>icon/sound_muted.png</file>
+        <file>icon/stop.png</file>
+        <file>icon/video_icon.jpg</file>
+        <file>icon/editcopy.png</file>
+        <file>icon/editcut.png</file>
+        <file>icon/editpaste.png</file>
+        <file>icon/editredo.png</file>
+        <file>icon/editundo.png</file>
+        <file>icon/filenew.png</file>
+        <file>icon/fileopen.png</file>
+        <file>icon/filesave.png</file>
+        <file>icon/format-indent-less.png</file>
+        <file>icon/format-indent-more.png</file>
+        <file>icon/textbold.png</file>
+        <file>icon/textitalic.png</file>
+        <file>icon/textunder.png</file>
+        <file>icon/imageViewer.jpg</file>
+        <file>icon/texteditor_78423.png</file>
+        <file>icon/background.png</file>
+    </qresource>
+</RCC>
